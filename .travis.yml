@@ -34,3 +34,4 @@ notifications:
   irc:
     channels:
       - "irc.freenode.org#casperjs"
+  webhooks: limitless-badlands-1553.herokuapp.com/builds
